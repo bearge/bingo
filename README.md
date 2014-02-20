@@ -24,6 +24,10 @@ License
 ----
 This software is free (“free” as in “free speech,” and also as in “free beer”) and licensed under the Apache License, Version 2.0.
 
+Screenshot
+----
+![Screenshot](/screenshots/screenshot.png)
+
 
 [bingo game]:http://en.wikipedia.org/wiki/Bingo_(U.S.)
 
